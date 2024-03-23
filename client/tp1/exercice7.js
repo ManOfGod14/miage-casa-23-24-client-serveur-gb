@@ -13,5 +13,6 @@ function estPair(nbr) {
   return nbr % 2 === 0;
 }
 
+// tester
 console.log(estPair(5));
 console.log(estPair(16));

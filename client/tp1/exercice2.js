@@ -1,14 +1,14 @@
 let a = 8;
 let b = 10;
 
-// addition
+// addition de a et b
 console.log(a + b);
 
-// soustraction
-console.log(a - b);
+// soustration de b et a
+console.log(b - a);
 
-// multiplication
+// multiplication de a  et b
 console.log(a * b);
 
-// division
+// division de a et b
 console.log(a / b);
